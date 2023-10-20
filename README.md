@@ -10,7 +10,6 @@ The following R libraries are required:
 - e1071
 - caret
 - rpart.plot
-- Boruta
 - ggplot2
 - ranger
 - dplyr

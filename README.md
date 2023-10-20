@@ -61,3 +61,9 @@ The results of the models are then compared in terms of accuracy, sensitivity, s
 1. Feature importance from the Random Forest model.
 2. Comparison of model performance metrics using bar plots.
 
+## Acknowledgement
+
+The dataset used for this project came from the following paper:
+- Moro, S., Laureano, R. and Cortez, P. (2011). Using data mining for bank direct marketing: An application of the crisp-dm methodology.
+
+
